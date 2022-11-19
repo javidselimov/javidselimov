@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 On linkedin https://www.linkedin.com/in/javidsalim/
  - 💬 On medium https://medium.com/@cavidselimov.cs
  - ![React](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv) 
-  ![](https://komarev.com/ghpvc/?username=JavidSelimov12345)
+  ![](https://komarev.com/ghpvc/?username=JavidSelimov)
 -->
 
 ## Javid Salimov
