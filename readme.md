@@ -24,6 +24,17 @@ Here are some ideas to get you started:
 ## Javid Salimov
 ### Front End & MERN Developer
 
+
+   
+   
+ [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
+
+ ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
+ ![Wakatime](https://wakatime.com/share/@Z_Salimov/92617131-097a-4a0a-8fdc-2c5a796b9a57.svg)
+
+
+![Wakatime](https://wakatime.com/share/@Z_Salimov/387c117f-9849-4670-83d4-e4f2988e92bc.png)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
@@ -65,18 +76,4 @@ Here are some ideas to get you started:
 		
 		
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
-   
-   
- [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
-
- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
- ![Wakatime](https://wakatime.com/share/@Z_Salimov/92617131-097a-4a0a-8fdc-2c5a796b9a57.svg)
-
-
-
-
-
-
-
-![Wakatime](https://wakatime.com/share/@Z_Salimov/387c117f-9849-4670-83d4-e4f2988e92bc.png)
 
