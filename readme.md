@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 
    
-   
- [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)
+[![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
 
  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
 
