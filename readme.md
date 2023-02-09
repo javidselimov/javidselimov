@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Front End & MERN Developer
 
 ![Alt text](https://wakatime.com/share/@Z_Salimov/568d6676-ef2c-48c3-8fe1-73d18c964f53.svg)
-![Alt text](https://wakatime.com/share/@Z_Salimov/1b5d351b-f26f-4e40-8cda-3de5f5f2be05.svg")
+![Alt text](https://wakatime.com/share/@Z_Salimov/1b5d351b-f26f-4e40-8cda-3de5f5f2be05.svg)
 ![Alt text](https://wakatime.com/share/@Z_Salimov/5bbfb96a-14bf-4bcb-b333-6834a55d82ae.svg)
 ![Alt text](https://wakatime.com/share/@Z_Salimov/57b597ab-8152-4a56-a95b-43d8b866f2d8.svg)
 
