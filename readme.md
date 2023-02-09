@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Javid Salimov
 ### Front End & MERN Developer
-![Waka]([https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens](https://wakatime.com/share/@Z_Salimov/c2639cb9-2159-48ff-8583-43166b857593.svg)
+https://wakatime.com/share/@Z_Salimov/6585ce38-50e7-40c3-b18f-fac922f71cd5.svg
 
    
 [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
