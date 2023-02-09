@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Alt text](https://wakatime.com/share/@Z_Salimov/568d6676-ef2c-48c3-8fe1-73d18c964f53.svg)
 ![Alt text](https://wakatime.com/share/@Z_Salimov/6585ce38-50e7-40c3-b18f-fac922f71cd5.svg)
 ![Alt text](https://wakatime.com/share/@Z_Salimov/9b8a2fdf-d811-4b8f-9092-d6d824de8c0a.svg)
-![Alt text](https://wakatime.com/share/@Z_Salimov/879645db-74be-4976-a5a4-bea7066c6aef.svg)
+![Alt text](https://wakatime.com/share/@Z_Salimov/57b597ab-8152-4a56-a95b-43d8b866f2d8.svg)
 
 
    
