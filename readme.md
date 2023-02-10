@@ -75,5 +75,7 @@ Here are some ideas to get you started:
    ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
    	![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ##
-[![Medium](https://raw.githubusercontent.com/javidselimov/myPort/main/Front/src/assets/films%20from%20blob.png?token=GHSAT0AAAAAAB36GHARENGFMYIIAWDGZC5UY7GQNYA)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)
+[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052044/medium/films_from_blob_rym9qm.png)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)
+##
+[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052043/medium/sanity_eagqvd.png)](https://medium.com/@cavidselimov.cs/sanity-io-2223fe0210b3)
 
