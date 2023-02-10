@@ -74,10 +74,6 @@ Here are some ideas to get you started:
    
    ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
    	![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-	
-
-		
-		
-![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+##
 [![Medium](https://raw.githubusercontent.com/javidselimov/myPort/main/Front/src/assets/films%20from%20blob.png?token=GHSAT0AAAAAAB36GHARENGFMYIIAWDGZC5UY7GQNYA)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)
 
