@@ -72,7 +72,7 @@ Here are some ideas to get you started:
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
    
-<div style="text-align:center">
+
 ##
 [![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052044/medium/films_from_blob_rym9qm.png)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)
 ##
@@ -88,4 +88,4 @@ Here are some ideas to get you started:
 ##
 
 [![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676053661/medium/films_from_blob_ohltgf.png)](https://medium.com/@cavidselimov.cs/expo-constants-65293fddef4a)
-	</div>
+
