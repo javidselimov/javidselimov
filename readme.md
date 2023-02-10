@@ -71,10 +71,11 @@ Here are some ideas to get you started:
  
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-   
+  
+  
 
 ##
-[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052044/medium/films_from_blob_rym9qm.png)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)
+ “`  [![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052044/medium/films_from_blob_rym9qm.png)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)  “`
 ##
 [![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052043/medium/sanity_eagqvd.png)](https://medium.com/@cavidselimov.cs/sanity-io-2223fe0210b3)
 
