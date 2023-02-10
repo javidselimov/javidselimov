@@ -79,4 +79,5 @@ Here are some ideas to get you started:
 		
 		
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+[![Medium](https://raw.githubusercontent.com/javidselimov/myPort/main/Front/src/assets/films%20from%20blob.png?token=GHSAT0AAAAAAB36GHARENGFMYIIAWDGZC5UY7GQNYA)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)
 
