@@ -68,12 +68,11 @@ Here are some ideas to get you started:
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+ 
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
    
-   ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-   	![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+
 ##
 [![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052044/medium/films_from_blob_rym9qm.png)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)
 ##
@@ -81,3 +80,6 @@ Here are some ideas to get you started:
 
 ##
 [![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052403/medium/films_from_blob_f24hff.png)](https://medium.com/@cavidselimov.cs/ejs-express-web-development-e31391d22847)
+##
+
+[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676053125/medium/films_from_blob_pl3ci4.png)](https://medium.com/@cavidselimov.cs/ceo-and-react-js-3a9b1d8ac48e)
