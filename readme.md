@@ -83,3 +83,8 @@ Here are some ideas to get you started:
 ##
 
 [![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676053125/medium/films_from_blob_pl3ci4.png)](https://medium.com/@cavidselimov.cs/ceo-and-react-js-3a9b1d8ac48e)
+
+
+##
+
+[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676053522/medium/films_from_blob_hwhe3z.png)](https://medium.com/@cavidselimov.cs/expo-constants-65293fddef4a)
