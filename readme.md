@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ## Javid Salimov
 ### Front End & MERN Developer
 
+[![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
 ![Alt text](https://wakatime.com/share/@Z_Salimov/568d6676-ef2c-48c3-8fe1-73d18c964f53.svg)
 ![Alt text](https://wakatime.com/share/@Z_Salimov/1b5d351b-f26f-4e40-8cda-3de5f5f2be05.svg)
 ![Alt text](https://wakatime.com/share/@Z_Salimov/5bbfb96a-14bf-4bcb-b333-6834a55d82ae.svg)
