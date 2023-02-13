@@ -73,6 +73,9 @@ Here are some ideas to get you started:
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   
   
+ ##
+[![Medium](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*EnTcQ_ZwCfanS64UNlBowg.png)](https://medium.com/@cavidselimov.cs/this-episode-i-will-create-redux-from-scratch-and-implement-it-on-html-with-vanilla-js-for-3e2ceac23896)
+## 
 
 ##
 [![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052044/medium/films_from_blob_rym9qm.png)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)
