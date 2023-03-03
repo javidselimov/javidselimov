@@ -71,7 +71,11 @@ Here are some ideas to get you started:
  
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  
+ 
+ 
+  ##
+[![Medium](https://miro.medium.com/v2/resize:fit:640/format:webp/1*LIZ1zcssgQomGYNaT61E8w.png)](https://medium.com/@cavidselimov.cs/currenttarget-vs-target-differences-93462ab0c7d9)
+## 
   
  ##
 [![Medium](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*EnTcQ_ZwCfanS64UNlBowg.png)](https://medium.com/@cavidselimov.cs/this-episode-i-will-create-redux-from-scratch-and-implement-it-on-html-with-vanilla-js-for-3e2ceac23896)
