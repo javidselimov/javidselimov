@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 [![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052403/medium/films_from_blob_f24hff.png)](https://medium.com/@cavidselimov.cs/ejs-express-web-development-e31391d22847)
 ##
 
-[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676053125/medium/films_from_blob_pl3ci4.png)](https://medium.com/@cavidselimov.cs/ceo-and-react-js-3a9b1d8ac48e) <span style="margin-left:40px">3</span>
+[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676053125/medium/films_from_blob_pl3ci4.png)](https://medium.com/@cavidselimov.cs/ceo-and-react-js-3a9b1d8ac48e) <span style="margin-left:40px;font-size:40px">3</span>
 
 
 ##
