@@ -21,6 +21,10 @@ Here are some ideas to get you started:
   ![](https://komarev.com/ghpvc/?username=javidselimov)
 -->
 
+
+https://user-images.githubusercontent.com/44189780/225109030-92a5c57e-2d61-4b82-9622-39af8f5bf6b3.mp4
+
+
 ## Javid Salimov
 ### Front End & MERN Developer
 
@@ -28,6 +32,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +99450 628 3223
 - ⚡ Fun fact: I am a chess lover  https://lichess.org/@/DumberBrain
 - 🌱 Favorite programming languages :  JavaScript   Python  
+
+
+
+
 
 [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
 ![Alt text](https://wakatime.com/share/@Z_Salimov/568d6676-ef2c-48c3-8fe1-73d18c964f53.svg)
