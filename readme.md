@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/44189780/225109030-92a5c57e-2d61-4b82-
 ### Front End & MERN Developer
 
 
-- 📫 How to reach me: +99450 628 3223
+- 📫 How to reach me: cavidselimov.cs@gmail.com
 - ⚡ Fun fact: I am a chess lover  https://lichess.org/@/DumberBrain
 - 🌱 Favorite programming languages :  JavaScript   Python  
 
