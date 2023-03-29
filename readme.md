@@ -19,37 +19,6 @@ Here are some ideas to get you started:
  - 💬 On medium https://medium.com/@cavidselimov.cs
  - ![React](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv) 
   ![](https://komarev.com/ghpvc/?username=javidselimov)
--->
-
-
-https://user-images.githubusercontent.com/44189780/225109030-92a5c57e-2d61-4b82-9622-39af8f5bf6b3.mp4
-
-
-## Javid Salimov
-### Front End & MERN Developer
-
-
-- 📫 How to reach me: cavidselimov.cs@gmail.com
-- ⚡ Fun fact: I am a chess lover  https://lichess.org/@/DumberBrain
-- 🌱 Favorite programming languages :  JavaScript   Python  
-
-
-
-
-
-[![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
-![Alt text](https://wakatime.com/share/@Z_Salimov/568d6676-ef2c-48c3-8fe1-73d18c964f53.svg)
-![Alt text](https://wakatime.com/share/@Z_Salimov/1b5d351b-f26f-4e40-8cda-3de5f5f2be05.svg)
-![Alt text](https://wakatime.com/share/@Z_Salimov/5bbfb96a-14bf-4bcb-b333-6834a55d82ae.svg)
-![Alt text](https://wakatime.com/share/@Z_Salimov/57b597ab-8152-4a56-a95b-43d8b866f2d8.svg)
-
-
-   
-[![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
-
- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
- 
-
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -84,6 +53,40 @@ https://user-images.githubusercontent.com/44189780/225109030-92a5c57e-2d61-4b82-
  
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+-->
+
+
+https://user-images.githubusercontent.com/44189780/225109030-92a5c57e-2d61-4b82-9622-39af8f5bf6b3.mp4
+
+
+## Javid Salimov
+### Front End & MERN Developer
+
+
+- 📫 How to reach me: cavidselimov.cs@gmail.com
+- ⚡ Fun fact: I am a chess lover  https://lichess.org/@/DumberBrain
+- 🌱 Favorite programming languages :  JavaScript   Python  
+
+
+
+
+
+[![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
+![Alt text](https://wakatime.com/share/@Z_Salimov/568d6676-ef2c-48c3-8fe1-73d18c964f53.svg)
+![Alt text](https://wakatime.com/share/@Z_Salimov/1b5d351b-f26f-4e40-8cda-3de5f5f2be05.svg)
+![Alt text](https://wakatime.com/share/@Z_Salimov/5bbfb96a-14bf-4bcb-b333-6834a55d82ae.svg)
+![Alt text](https://wakatime.com/share/@Z_Salimov/57b597ab-8152-4a56-a95b-43d8b866f2d8.svg)
+
+
+   
+[![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
+
+ ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
+ 
+
+
+
    
    ##
 
