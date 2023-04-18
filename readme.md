@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 -->
 
 
-https://user-images.githubusercontent.com/44189780/225109030-92a5c57e-2d61-4b82-9622-39af8f5bf6b3.mp4
+<!-- https://user-images.githubusercontent.com/44189780/225109030-92a5c57e-2d61-4b82-9622-39af8f5bf6b3.mp4 -->
 
 
 ## Javid Salimov
