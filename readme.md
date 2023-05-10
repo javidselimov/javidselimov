@@ -88,6 +88,13 @@ Here are some ideas to get you started:
 
    ##
 
+[![Medium](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Yy4wbUijuVY-WNx0o34tbw.png)](https://medium.com/@cavidselimov.cs/the-power-of-closures-in-javascript-implementing-the-singleton-design-pattern-f1ee81a227fc)
+
+
+
+
+   ##
+
 [![Medium](https://miro.medium.com/v2/resize:fit:640/format:webp/1*jn4HisrvthDk6RI6KOjzdw.png)](https://medium.com/@cavidselimov.cs/webpack-vs-vite-a-comparison-of-two-popular-javascript-build-tools-6ca568c14bb2)
 
 
