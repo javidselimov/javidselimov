@@ -84,6 +84,11 @@ Here are some ideas to get you started:
 
  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
  
+ 
+   ##
+
+[![Medium](https://miro.medium.com/v2/resize:fit:640/format:webp/1*oplPFew7c-9GiHPzAuKRzw.png)](https://medium.com/@cavidselimov.cs/unleashing-the-power-of-new-target-in-javascript-an-epic-adventure-of-quirky-variable-names-b08a18d5d4c)
+
 
 
    ##
