@@ -60,16 +60,32 @@ Here are some ideas to get you started:
 <!-- https://user-images.githubusercontent.com/44189780/225109030-92a5c57e-2d61-4b82-9622-39af8f5bf6b3.mp4 -->
 
 
-## Javid Salimov
-### Front End & MERN Developer
 
+# Welcome to My GitHub Repository
 
-- 📫 How to reach me: cavidselimov.cs@gmail.com
+## About Me
+My name is Javid Salimov, and I'm a JavaScript developer passionate about creating web applications and exploring new technologies. I enjoy working on frontend development, building intuitive user interfaces, and solving complex problems with clean and efficient code.
+
+## Skills
+Here are some of the key skills and technologies I have experience with:
+
+- JavaScript
+- HTML/CSS
+- React
+- Node.js
+- Express.js
+- SQL/NoSQL Databases
+
+## Contact Me
+Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through the following channels:
+
+- Email: [your-email@example.com](mailto:cavidselimov.cs@gmail.com)
+- LinkedIn: [Javid Salimov](https://www.linkedin.com/in/javidsalim/)
 - ⚡ Fun fact: I am a chess lover  https://lichess.org/@/DumberBrain
-- 🌱 Favorite programming languages :  JavaScript Ruby  Python  
 
+I'm open to new opportunities and always excited to connect with fellow developers and enthusiasts.
 
-
+Looking forward to hearing from you!
 
 
 [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
