@@ -79,7 +79,7 @@ Here are some of the key skills and technologies I have experience with:
 ## Contact Me
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through the following channels:
 
-- Email: [your-email@example.com](mailto:cavidselimov.cs@gmail.com)
+- Email: [cavidselimov.cs@gmail.com](mailto:cavidselimov.cs@gmail.com)
 - LinkedIn: [Javid Salimov](https://www.linkedin.com/in/javidsalim/)
 - ⚡ Fun fact: I am a chess lover  https://lichess.org/@/DumberBrain
 
