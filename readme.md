@@ -103,7 +103,7 @@ Looking forward to hearing from you!
  
  ##
 
-[![Medium](https://miro.medium.com/v2/resize:fit:750/format:webp/1*TC99I7eiox1ScmuPxfIVRg.png)](https://medium.com/@cavidselimov.cs/dependency-injection-in-javascript-21cec9a573df)
+[![Medium](https://miro.medium.com/v2/resize:fit:750/format:webp/1*NRwdLyQ-kuWeg7MnuYcULQ.png)](https://medium.com/@cavidselimov.cs/dependency-injection-in-javascript-21cec9a573df)
 
 
  
