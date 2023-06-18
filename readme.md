@@ -100,6 +100,14 @@ Looking forward to hearing from you!
 
  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
  
+
+ ##
+
+[![Medium](https://miro.medium.com/v2/resize:fit:750/format:webp/1*967tChQYqd32YkZo6w4lHQ.png)](https://medium.com/@cavidselimov.cs/memoization-a-powerful-technique-in-javascript-92c7b5c46615)
+
+
+ 
+
  
  ##
 
