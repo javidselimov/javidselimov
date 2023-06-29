@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 
 <!-- https://user-images.githubusercontent.com/44189780/225109030-92a5c57e-2d61-4b82-9622-39af8f5bf6b3.mp4 -->
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="javidsalim" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://az.linkedin.com/in/javidsalim?trk=profile-badge">Javid Salimov</a></div>
+              
 
 # Welcome to My GitHub Repository
 
