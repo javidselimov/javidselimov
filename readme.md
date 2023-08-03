@@ -156,24 +156,4 @@ Looking forward to hearing from you!
 [![Medium](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*EnTcQ_ZwCfanS64UNlBowg.png)](https://medium.com/@cavidselimov.cs/this-episode-i-will-create-redux-from-scratch-and-implement-it-on-html-with-vanilla-js-for-3e2ceac23896)
 ## 
 
-##
-[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052044/medium/films_from_blob_rym9qm.png)](https://medium.com/@cavidselimov.cs/download-films-from-blob-url-3e12ed351730)
-##
-[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052043/medium/sanity_eagqvd.png)](https://medium.com/@cavidselimov.cs/sanity-io-2223fe0210b3)
-
-##
-[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676052403/medium/films_from_blob_f24hff.png)](https://medium.com/@cavidselimov.cs/ejs-express-web-development-e31391d22847)
-##
-
-[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676053125/medium/films_from_blob_pl3ci4.png)](https://medium.com/@cavidselimov.cs/ceo-and-react-js-3a9b1d8ac48e) 
-
-
-##
-
-[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676053661/medium/films_from_blob_ohltgf.png)](https://medium.com/@cavidselimov.cs/expo-constants-65293fddef4a)
-
-
-##
-
-[![Medium](https://res.cloudinary.com/dwdywnfuw/image/upload/v1676054471/medium/films_from_blob_h1ddfr.png)](https://medium.com/@cavidselimov.cs/express-middleware-36f1a331fd8c)
 
