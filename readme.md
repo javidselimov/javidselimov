@@ -83,6 +83,8 @@ Feel free to reach out to me if you have any questions or would like to collabor
 - Blog : [Articles](https://javidsalimov.substack.com)
 - Email: [cavidselimov.cs@gmail.com](mailto:cavidselimov.cs@gmail.com)
 - LinkedIn: [Javid Salimov](https://www.linkedin.com/in/javidsalim/)
+- İnstagram: [Azərbaycan auditoriyası](https://www.instagram.com/javid.slmv/)
+- İnstagram: [Global](https://www.instagram.com/lionel.frontend/)
 - ⚡ Fun fact: I am a chess lover  https://lichess.org/@/DumberBrain
 
 I'm open to new opportunities and always excited to connect with fellow developers and enthusiasts.
