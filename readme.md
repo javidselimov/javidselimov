@@ -26,7 +26,7 @@ I'm a JavaScript developer passionate about building web applications and explor
 ## 🚀 Featured Project — reactivite
 
 <a href="https://reactivite.vercel.app">
-  <img src="./reactivite-thumbnail.png" alt="reactivite — build React apps lightning fast" width="100%"/>
+  <img src="https://media.daily.dev/image/upload/s--49WXl71n--/f_auto/v1781888254/posts/BY5JamQ5z?_a=BAMAMiWQ0" alt="reactivite — build React apps lightning fast" width="100%"/>
 </a>
 
 **[reactivite](https://reactivite.vercel.app)** — scaffold production-ready React apps in **one command**.
